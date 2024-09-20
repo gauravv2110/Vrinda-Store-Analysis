@@ -6,7 +6,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 # Questions (KPIs)
 
-1 .Compare the sales and orders using single chart.
+1. Compare the sales and orders using single chart.
 
 2. Which month got the highest sales and orders?
 
